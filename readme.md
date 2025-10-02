@@ -1,7 +1,5 @@
 # IoT4Kids
 
-# IoT4Kids – Research Paper Submission Roadmap
-
 ## 📘 Project Overview
 **IoT4Kids** is an educational initiative funded by the Alumni Engagement Innovation Fund (AEIF) of the U.S. Department of State.  
 Its mission is to **inspire and educate underrepresented children** in Honduras through the **Internet of Things (IoT)** and **Computer Science**, with a vision of creating equal opportunities and pathways to scholarships in STEM.  
@@ -17,6 +15,7 @@ Key achievements:
 
 ---
 
+# IoT4Kids – Research Paper Submission Roadmap
 ## 📅 Submission Schedule (2025–2026)
 
 | Venue | Type | Location/Date | Deadline | Focus/Notes |
