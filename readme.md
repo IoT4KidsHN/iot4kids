@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 **IoT4Kids** is an educational initiative funded by the Alumni Engagement Innovation Fund (AEIF) of the U.S. Department of State.  
-Its mission is to **inspire and educate underrepresented children** in Honduras through the **Internet of Things (IoT)** and **Computer Science**, with a vision of creating equal opportunities and pathways to scholarships in STEM.  
+Its mission is to **inspire and educate children** in Honduras through the **Internet of Things (IoT)** and **Computer Science**, with a vision of creating equal opportunities and pathways to scholarships in STEM.  
 
 Key achievements:
 - Established the **IoT4Kids Lab** in Copán Ruinas with 30 Raspberry Pi 5 units, monitors, and Honduras’s first **FarmBot**.  
@@ -15,6 +15,13 @@ Key achievements:
 
 ---
 
+## Technological Hub
+Nestled in the verdant landscapes of western Honduras, Copán Ruinas is a town steeped in the rich history of the ancient Maya civilization. Renowned worldwide for its archaeological site, which features impressive ruins and an extensive collection of pre-Columbian artifacts, Copán Ruinas attracts scholars, historians, and tourists eager to delve into its storied past. The region is also famous for its coffee production, with local businesses cultivating and exporting some of the finest coffee beans, adding to the town's vibrant economy. Soon, it will also attract information technologists and expose cutting-edge technologies in rural areas.
+
+
+The convergence of historical depth, thriving coffee industry, and IoT4Kids makes Copán Ruinas a unique and exciting locale for tourism and education. As we foster this blend of the past, present, and future, we invite visitors and potential partners to join us in shaping a new identity for Copán Ruinas, where technology and heritage create a vibrant, sustainable community.
+
+---
 # IoT4Kids – Research Paper Submission Roadmap
 ## 📅 Submission Schedule (2025–2026)
 
@@ -28,7 +35,7 @@ Key achievements:
 
 ---
 
-## 📝 Draft Paper Titles
+##  Draft Paper Titles
 
 - *IoT4Kids: Deploying an IoT and Computer Science Curriculum for Underrepresented Students in Honduras*  
 - *Bridging the Digital Divide: Lessons from a K-12 IoT Education Pilot in Copán Ruinas*  
@@ -38,7 +45,7 @@ Key achievements:
 
 ---
 
-## 📚 References
+## References
 
 - FarmBot. (2024). *FarmBot Genesis V1.7*. Retrieved from [https://farm.bot/products/farmbot-genesis-v1-7](https://farm.bot/products/farmbot-genesis-v1-7)  
 - Harvard University. (n.d.). *CS50: Introduction to Computer Science*. Harvard Online Learning. Retrieved from [https://pll.harvard.edu/course/cs50-introduction-computer-science](https://pll.harvard.edu/course/cs50-introduction-computer-science)  
@@ -50,12 +57,11 @@ Key achievements:
 
 ---
 
-## ✅ Next Steps
+## Next Steps
 1. Prepare EDUCON full paper (due Dec 12, 2025).  
 2. Submit ASEE abstract (due Oct 15, 2025).  
 3. Draft ISEC K-12 submission (due Jan 23/30, 2026).  
 4. Monitor ACM IDC 2026 site for updated deadlines (expected Jan 2026).  
-5. Track Appendix A (financials) and grade indicators for inclusion as evidence in submissions.  
 
 ---
 
