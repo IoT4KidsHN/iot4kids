@@ -65,4 +65,8 @@ The convergence of historical depth, thriving coffee industry, and IoT4Kids make
 
 ---
 
+## References:
+* https://site.aace.org/about/site-2026-philadelphia-march-23-27/rates-deadlines-visas/#deadlines-important-dates
+* https://site.aace.org/conf/categories/#VirtualBriefPapers
+* https://dcoss.org/call-for-papers/?utm_source=chatgpt.com
 
