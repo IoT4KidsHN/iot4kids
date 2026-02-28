@@ -69,4 +69,7 @@ The convergence of historical depth, thriving coffee industry, and IoT4Kids make
 * https://site.aace.org/about/site-2026-philadelphia-march-23-27/rates-deadlines-visas/#deadlines-important-dates
 * https://site.aace.org/conf/categories/#VirtualBriefPapers
 * https://dcoss.org/call-for-papers/?utm_source=chatgpt.com
+* [Válvula que se necesita del FarmBot] https://genesis.farm.bot/v1.7/bom/electronics-and-wiring/solenoid-valve.html
+* https://wokwi.com/
+* https://openwrt.org/
 
